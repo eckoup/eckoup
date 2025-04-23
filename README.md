@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emrys (they/them)
+- 👋 Hi, I’m Emrys
 - 👀 In my free time, I'm interested in sewing, mechtronics, and fashion!
 - 🌱 I studied full-stack Java development with Merit America in 2022
 <!---
